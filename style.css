@@ -1,0 +1,10 @@
+div {
+    padding: 10px 10px 10px 10px;
+    border: 2px solid black;
+    display: block;
+    margin: 2px 2px 2px 2px;
+    width: 100px;
+  }
+  div:hover {
+    background-color: yellow;
+  }
